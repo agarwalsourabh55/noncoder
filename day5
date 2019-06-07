@@ -1,1 +1,2 @@
-
+Q..   Command to see the user in the group 
+sol.. getent groupname group 
